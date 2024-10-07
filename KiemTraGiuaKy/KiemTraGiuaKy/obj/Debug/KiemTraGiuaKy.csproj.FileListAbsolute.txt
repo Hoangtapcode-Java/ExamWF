@@ -1,0 +1,13 @@
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csprojAssemblyReference.cache
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.frm_DanhMuc.resources
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.frm_ThucDon.resources
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Properties.Resources.resources
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.GenerateResource.cache
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.CoreCompileInputs.cache
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\QLQUANCAFE.mdf
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\QLQUANCAFE_log.ldf
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe.config
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.pdb
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.exe
+D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.pdb
