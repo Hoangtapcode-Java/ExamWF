@@ -1,0 +1,13 @@
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\bin\Debug\QLCH.mdf
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\bin\Debug\QLCH_log.ldf
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.csproj.AssemblyReference.cache
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.frm_CuaHang.resources
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.frm_Main.resources
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\LapTrinhNet\KiemTraCuoiKy\QLCH\QLCH\obj\Debug\QLCH.pdb

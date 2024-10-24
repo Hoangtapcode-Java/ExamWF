@@ -12,7 +12,7 @@ namespace KiemTraGiuaKy
         SqlConnection conn = new SqlConnection();
         public LopDungChung()
         {
-            conn.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\KiemTraNET\KiemTraGiuaKy\KiemTraGiuaKy\QLQUANCAFE.mdf;Integrated Security=True";
+            conn.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\LapTrinhNet\ExamWF\KiemTraGiuaKy\KiemTraGiuaKy\QLTD.mdf;Integrated Security=True";
         }
 
         public int ThemSuaXoa(string sql)

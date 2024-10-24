@@ -53,7 +53,7 @@
             this.label1.Location = new System.Drawing.Point(36, 89);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 18);
+            this.label1.Size = new System.Drawing.Size(66, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "Mã TD";
             // 
@@ -63,7 +63,7 @@
             this.label2.Location = new System.Drawing.Point(476, 89);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 18);
+            this.label2.Size = new System.Drawing.Size(104, 24);
             this.label2.TabIndex = 1;
             this.label2.Text = "Loại Khách";
             // 
@@ -73,7 +73,7 @@
             this.label3.Location = new System.Drawing.Point(36, 230);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(124, 18);
+            this.label3.Size = new System.Drawing.Size(162, 24);
             this.label3.TabIndex = 2;
             this.label3.Text = "Ngày Cấp Thẻ TV";
             // 
@@ -83,7 +83,7 @@
             this.txt_NamHetHan.Location = new System.Drawing.Point(476, 230);
             this.txt_NamHetHan.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.txt_NamHetHan.Name = "txt_NamHetHan";
-            this.txt_NamHetHan.Size = new System.Drawing.Size(127, 18);
+            this.txt_NamHetHan.Size = new System.Drawing.Size(163, 24);
             this.txt_NamHetHan.TabIndex = 3;
             this.txt_NamHetHan.Text = "Năm Hết Hạn Thẻ";
             // 
@@ -93,7 +93,7 @@
             this.label5.Location = new System.Drawing.Point(36, 150);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(57, 18);
+            this.label5.Size = new System.Drawing.Size(74, 24);
             this.label5.TabIndex = 4;
             this.label5.Text = "Tên TD";
             // 
@@ -102,7 +102,7 @@
             this.txt_MaTD.Location = new System.Drawing.Point(184, 84);
             this.txt_MaTD.Margin = new System.Windows.Forms.Padding(4);
             this.txt_MaTD.Name = "txt_MaTD";
-            this.txt_MaTD.Size = new System.Drawing.Size(202, 24);
+            this.txt_MaTD.Size = new System.Drawing.Size(202, 29);
             this.txt_MaTD.TabIndex = 5;
             // 
             // txt_TenTD
@@ -110,7 +110,7 @@
             this.txt_TenTD.Location = new System.Drawing.Point(184, 147);
             this.txt_TenTD.Margin = new System.Windows.Forms.Padding(4);
             this.txt_TenTD.Name = "txt_TenTD";
-            this.txt_TenTD.Size = new System.Drawing.Size(202, 24);
+            this.txt_TenTD.Size = new System.Drawing.Size(202, 29);
             this.txt_TenTD.TabIndex = 6;
             // 
             // textBox3
@@ -118,7 +118,7 @@
             this.textBox3.Location = new System.Drawing.Point(652, 226);
             this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(148, 24);
+            this.textBox3.Size = new System.Drawing.Size(148, 29);
             this.textBox3.TabIndex = 7;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
@@ -127,7 +127,7 @@
             this.txt_Dem.Location = new System.Drawing.Point(971, 85);
             this.txt_Dem.Margin = new System.Windows.Forms.Padding(4);
             this.txt_Dem.Name = "txt_Dem";
-            this.txt_Dem.Size = new System.Drawing.Size(66, 24);
+            this.txt_Dem.Size = new System.Drawing.Size(66, 29);
             this.txt_Dem.TabIndex = 8;
             // 
             // date_NgayCapThe
@@ -136,7 +136,7 @@
             this.date_NgayCapThe.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.date_NgayCapThe.Location = new System.Drawing.Point(184, 224);
             this.date_NgayCapThe.Name = "date_NgayCapThe";
-            this.date_NgayCapThe.Size = new System.Drawing.Size(200, 24);
+            this.date_NgayCapThe.Size = new System.Drawing.Size(200, 29);
             this.date_NgayCapThe.TabIndex = 9;
             // 
             // cb_LoaiKhach
@@ -144,7 +144,7 @@
             this.cb_LoaiKhach.FormattingEnabled = true;
             this.cb_LoaiKhach.Location = new System.Drawing.Point(652, 84);
             this.cb_LoaiKhach.Name = "cb_LoaiKhach";
-            this.cb_LoaiKhach.Size = new System.Drawing.Size(121, 26);
+            this.cb_LoaiKhach.Size = new System.Drawing.Size(121, 32);
             this.cb_LoaiKhach.TabIndex = 10;
             // 
             // btn_Dem
@@ -192,12 +192,13 @@
             this.dt_GridViewTD.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dt_GridViewTD.Location = new System.Drawing.Point(39, 400);
             this.dt_GridViewTD.Name = "dt_GridViewTD";
+            this.dt_GridViewTD.RowHeadersWidth = 51;
             this.dt_GridViewTD.Size = new System.Drawing.Size(998, 211);
             this.dt_GridViewTD.TabIndex = 15;
             // 
             // frm_ThucDon
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1200, 623);
             this.Controls.Add(this.dt_GridViewTD);

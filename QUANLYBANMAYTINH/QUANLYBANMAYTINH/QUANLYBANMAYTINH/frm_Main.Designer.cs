@@ -46,7 +46,7 @@
             this.qUẢNLÝTHIẾTBỊToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1107, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1107, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -76,14 +76,14 @@
             // lOẠITHIẾTBỊToolStripMenuItem
             // 
             this.lOẠITHIẾTBỊToolStripMenuItem.Name = "lOẠITHIẾTBỊToolStripMenuItem";
-            this.lOẠITHIẾTBỊToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.lOẠITHIẾTBỊToolStripMenuItem.Size = new System.Drawing.Size(183, 26);
             this.lOẠITHIẾTBỊToolStripMenuItem.Text = "THIẾT BỊ";
             this.lOẠITHIẾTBỊToolStripMenuItem.Click += new System.EventHandler(this.lOẠITHIẾTBỊToolStripMenuItem_Click);
             // 
             // lOẠITHIẾTBỊToolStripMenuItem1
             // 
             this.lOẠITHIẾTBỊToolStripMenuItem1.Name = "lOẠITHIẾTBỊToolStripMenuItem1";
-            this.lOẠITHIẾTBỊToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.lOẠITHIẾTBỊToolStripMenuItem1.Size = new System.Drawing.Size(183, 26);
             this.lOẠITHIẾTBỊToolStripMenuItem1.Text = "LOẠI THIẾT BỊ";
             this.lOẠITHIẾTBỊToolStripMenuItem1.Click += new System.EventHandler(this.lOẠITHIẾTBỊToolStripMenuItem1_Click);
             // 
